@@ -1,3 +1,5 @@
+#Usando robot para testar e validar campos do tipo checkbox
+
 # robot -d .log/ <nome do arquivo>
 # robto -d .log/ -i <nome da tag> <nome do arquivo>
 

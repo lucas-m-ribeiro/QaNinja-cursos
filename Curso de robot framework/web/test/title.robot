@@ -1,3 +1,5 @@
+#Usando robot para validar o titulo da pagina web
+
 # robot -d .log/ <nome do arquivo>
 # robto -d .log/ -i <nome da tag> <nome do arquivo>
 

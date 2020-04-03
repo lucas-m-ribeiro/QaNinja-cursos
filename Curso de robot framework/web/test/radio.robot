@@ -1,3 +1,6 @@
+#Usando robot para validar tipos de inputs radio
+#botoes de opção que so podem ser selecionada uma opção diferente do checkbox!
+
 *** Settings ***
 Resource        base.robot
 
