@@ -1,3 +1,5 @@
+#rspec --tag @<nome da tag>
+
 describe "caixa de selecao", :dropdown do
 
     it "item especifico simples" do
