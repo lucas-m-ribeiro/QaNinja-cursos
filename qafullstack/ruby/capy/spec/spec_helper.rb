@@ -22,5 +22,13 @@ RSpec.configure do |config|
 end
 
 Capybara.configure do |config|
-  config.default_driver = :selenium_chrome
+
+#linha de configuração para excutar os teste no chrome
+ config.default_driver = :selenium_chrome
+
+
+#linha de configuração para tempo de espera do codigo ao encontrar
+#elementos na pagina
+config.default_max_wait_time = 5	
+
 end
