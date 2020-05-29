@@ -1,4 +1,4 @@
-describe 'forms' do
+describe 'forms', :forms do
 
     it "login com sucesso" do
 
