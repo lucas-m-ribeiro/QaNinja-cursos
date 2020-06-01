@@ -31,4 +31,7 @@ Capybara.configure do |config|
 #elementos na pagina
 config.default_max_wait_time = 5	
 
+#configuração da url padrão do projeto
+config.app_host = 'https://training-wheels-protocol.herokuapp.com'
+
 end

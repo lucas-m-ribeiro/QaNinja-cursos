@@ -5,7 +5,7 @@ describe 'upload', :upload do
 #  de encontrar os arquivos na hora do upload. Isto somente em SO windows.
 
     before(:each) do
-        visit 'https://training-wheels-protocol.herokuapp.com/upload'
+        visit '/upload'
         @arquivo = Dir.pwd + '/spec/fixtures/arquivo.txt'
         @imagem = Dir.pwd +  '/spec/fixtures/imagem.png'
     end
