@@ -9,3 +9,7 @@ Estudando os comandos do Capybara/Ruby:
 [Link 1](https://medium.com/@reiload_88128/estudando-os-comandos-do-capybara-ruby-f0f5152847f7)
 
 [Link 2](https://www.campuscode.com.br/conteudos/capybara-cheatsheet)
+
+Github do framework capybara:
+
+[Acesse aqui](https://github.com/teamcapybara/capybara)
