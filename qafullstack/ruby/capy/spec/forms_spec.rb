@@ -25,7 +25,6 @@ describe 'forms', :forms do
         expect(find('#flash')).to have_content 'Senha é invalida!'
     end
 
-
     it "usuario nao caadastrado", :test2 do 
         visit "/login"
 
